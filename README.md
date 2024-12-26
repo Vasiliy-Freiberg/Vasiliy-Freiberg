@@ -36,19 +36,19 @@ quick overview of yourself, your skills, and the projects you’re working on
 - [Project Name 1](https://github.com/yourusername/project1): A short description of the project.
 - [Project Name 2](https://github.com/yourusername/project2): Another project description.
 -->
-- [**Web Testing - Urban Routes Web App**](https://www.notion.so/Web-Testing-Urban-Routes-Web-App-13f3b499e9bf80cea75dcfc8e661717d)
+- [**Web Testing - Urban Routes Web App**](https://absorbed-goose-dca.notion.site/Web-Testing-Urban-Routes-Web-App-13f3b499e9bf80cea75dcfc8e661717d)
 
-- [**API Testing - Urban Grocers Web App**](https://www.notion.so/API-Testing-Urban-Grocers-Web-App-13f3b499e9bf80148ebafd5ec1f64056?pvs=21)
+- [**API Testing - Urban Grocers Web App**](https://absorbed-goose-dca.notion.site/API-Testing-Urban-Grocers-Web-App-13f3b499e9bf80148ebafd5ec1f64056)
 
-- [**PostgreSQL - Taxi Database**](https://www.notion.so/PostgreSQL-Taxi-Database-1403b499e9bf8075965ef686a8887d98?pvs=21)
+- [**PostgreSQL - Taxi Database**](https://absorbed-goose-dca.notion.site/PostgreSQL-Taxi-Database-1403b499e9bf8075965ef686a8887d98)
 
-- [**Mobile Testing - Urban Lunch Mobile App**](https://www.notion.so/Mobile-Testing-Urban-Lunch-Mobile-App-1403b499e9bf80dc9ce7f07cc40a6e37?pvs=21)
+- [**Mobile Testing - Urban Lunch Mobile App**](https://absorbed-goose-dca.notion.site/Mobile-Testing-Urban-Lunch-Mobile-App-1403b499e9bf80dc9ce7f07cc40a6e37)
 
-- [**Automated API Testing** - **Urban Grocer Web App**](https://www.notion.so/Automated-API-Testing-Urban-Grocer-Web-App-1403b499e9bf808c8914f6eaf032538b?pvs=21) ([GitHub Repo](https://github.com/Vasiliy-Freiberg/Automated-API-Testing---Urban-Grocer-Web-App))
+- [**Automated API Testing** - **Urban Grocer Web App**](https://absorbed-goose-dca.notion.site/Automated-API-Testing-Urban-Grocer-Web-App-1403b499e9bf808c8914f6eaf032538b) ([GitHub Repo](https://github.com/Vasiliy-Freiberg/Automated-API-Testing---Urban-Grocer-Web-App))
 
-- [**Automated UI Testing - Urban Routes Web App**](https://www.notion.so/Automated-UI-Testing-Urban-Routes-Web-App-1403b499e9bf806cb472e7e15c4f1319?pvs=21) ([GitHub Repo](https://github.com/Vasiliy-Freiberg/Automated-UI-Testing---Urban-Routes-Web-App))
+- [**Automated UI Testing - Urban Routes Web App**](https://absorbed-goose-dca.notion.site/Automated-UI-Testing-Urban-Routes-Web-App-1403b499e9bf806cb472e7e15c4f1319) ([GitHub Repo](https://github.com/Vasiliy-Freiberg/Automated-UI-Testing---Urban-Routes-Web-App))
 
-- [**Back and Frontend Web and Mob Testing - Urban Scooter Web and Mobile application**](https://www.notion.so/Back-and-Frontend-Web-and-Mob-Testing-Urban-Scooter-Web-and-Mobile-application-1403b499e9bf805384f3c8e824b45269?pvs=21)
+- [**Back and Frontend Web and Mob Testing - Urban Scooter Web and Mobile application**](https://absorbed-goose-dca.notion.site/Back-and-Frontend-Web-and-Mob-Testing-Urban-Scooter-Web-and-Mobile-application-1403b499e9bf805384f3c8e824b45269)
 
   More of my projects you can find at my [Portfolio site](https://absorbed-goose-dca.notion.site/Portfolio-1293b499e9bf80e089f7c34c05d855e4)
 
