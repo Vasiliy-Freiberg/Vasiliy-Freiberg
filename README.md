@@ -53,5 +53,5 @@ quick overview of yourself, your skills, and the projects you’re working on
   More of my projects you can find at my [Portfolio site](https://absorbed-goose-dca.notion.site/Portfolio-1293b499e9bf80e089f7c34c05d855e4)
 
 ## 📫 Contact
-- **Email**: freiberg87@hotmail.com
+- **Email**: freiberg5747@gmail.com
 - [**LinkedIn**](http://www.linkedin.com/in/vasiliy-freiberg)
